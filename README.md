@@ -2,6 +2,9 @@
 
 Based on the Coding Train tutorials 
 
+#10print
+Recursive pattern generating based on the Commodore 64 10print application
+https://www.youtube.com/watch?v=bEyTZ5ZZxZs
 
 
 
