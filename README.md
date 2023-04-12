@@ -21,3 +21,10 @@ https://github.com/jewkesy/p5js.git
 Neural Network XOR 
 
 https://www.youtube.com/watch?v=188B6k_F9jU
+
+
+#FontColour
+
+Neural Network change font colour based upon background colour
+
+https://www.youtube.com/watch?v=9Hz3P1VgLz4
