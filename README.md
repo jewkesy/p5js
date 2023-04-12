@@ -3,6 +3,7 @@
 Based on the Coding Train tutorials 
 
 #10print
+
 Recursive pattern generating based on the Commodore 64 10print application
 https://www.youtube.com/watch?v=bEyTZ5ZZxZs
 
@@ -13,3 +14,10 @@ https://www.youtube.com/watch?v=bEyTZ5ZZxZs
 Travelling Salesman problem, evolving to use genetic algorithms 
 
 https://github.com/jewkesy/p5js.git
+
+
+#XOR
+
+Neural Network XOR 
+
+https://www.youtube.com/watch?v=188B6k_F9jU
